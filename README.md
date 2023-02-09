@@ -1,4 +1,6 @@
-## Olá Mundo! Boas vindas ao meu perfil! Eu sou  Michel Moreira e esta é a minha jornada como dev frontender!
+## Olá Mundo! Boas vindas ao meu perfil! 
+
+### Eu sou  Michel Moreira e esta é a minha jornada como *dev frontender*!
 
 <div>
   <a href="https://github.com/michel-moreira"></a>
